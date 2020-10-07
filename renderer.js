@@ -4,3 +4,12 @@
 // `nodeIntegration` is turned off. Use `preload.js` to
 // selectively enable features needed in the rendering
 // process.
+
+
+if(1>2){
+    alert("world break");
+}
+else{
+    alert("world is ok");
+    console.log("world is ok");
+}
